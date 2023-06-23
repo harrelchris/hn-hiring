@@ -1,5 +1,7 @@
 # Hackernews Hiring
 
+Extract useful insights from monthly Hackernews Who Is Hiring threads.
+
 ## Install
 
 ```shell
